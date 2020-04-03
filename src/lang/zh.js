@@ -1,0 +1,61 @@
+export default {
+  route: {
+    dashboard: '首页',
+    user_modify: '修改用户信息',
+    errorPages: '错误页面',
+    page401: '401',
+    page404: '404',
+    errorLog: '错误日志',
+    i18n: '国际化',
+    tag_close: '关闭',
+    tag_close_all: '关闭所有',
+    tag_close_orthers: '关闭其它',
+    menu_manage: '业务系统',
+    task_detail: '发车单详情 ',
+    task_order: '发车单列表',
+    menu_user: '账单管理',
+    menu_role: '系统角色',
+    monitor_system: '监控系统',
+    truck_location: '车辆定位',
+    system_mgmt: '系统管理',
+    account_mgmt: '账号管理',
+    location_rule: '定位规则设置',
+    new_account: '新建账号',
+    edit_account: '编辑账号',
+    permission_mgmt: '权限设置',
+    username: '账号',
+    realname: '姓名',
+    telephone: '手机号码',
+    password: '密码',
+    comment: '备注',
+    modify: '修改',
+    taskitem: '任务单',
+    taskitem_detail: '任务单详情',
+    upperpayment: '上游付款',
+    upperpaymentdetail: '上游付款详情',
+    lowerpayment: '下游付款',
+    lowerpaymentdetail: '下游付款详情',
+    invoice: '发票',
+    invoice_detail: '发票详情',
+    upperabnormal: '上游付款异常',
+    lowerabnormal: '下游付款异常',
+    menu_map: '账单明细',
+    menu_example: '嵌套组件'
+  },
+  navbar: {
+    logOut: '退出登录',
+    dashboard: '首页',
+    screenfull: '全屏'
+  },
+  login: {
+    title: '天地链运输监控平台',
+    logIn: '登录',
+    username: '',
+    password: ''
+  },
+  tips: {
+    error_login_username: '请输入正确的用户名',
+    error_login_password: '请输入至少六位数密码',
+    error_verification: '验证失败，请重新登录'
+  }
+}
